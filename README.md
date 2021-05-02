@@ -1,4 +1,4 @@
-# Dataset Video Driver Activity Recognition
+# Dataset: Video based Driver Activity Recognition
 
 Please send a request to following email-id, we will send you the link back for downloading the dataset: 
 
