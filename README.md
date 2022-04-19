@@ -1,9 +1,11 @@
 # Dataset: Video based Driver Activity Recognition
 
-Please send a request to following email-id, we will send you the link back for downloading the dataset: 
+Please send a request to the following email-id, we will send back the link for downloading the dataset: 
 
 humza_naveed@yahoo.com 
 
+<img src="dataset.png" alt="Alt text" title="Sample frames taken from different video clips in our
+dataset">
 
 Please cite the following article, if you use this dataset. 
 <br />
