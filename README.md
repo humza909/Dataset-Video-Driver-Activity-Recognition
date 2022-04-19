@@ -1,13 +1,30 @@
 # Dataset: Video based Driver Activity Recognition
 
-Please send a request to the following email-id, we will send back the link for downloading the dataset: 
+This dataset is used in the paper: [Driver activity recognition by learning spatiotemporal features of pose and human object interaction](https://www.sciencedirect.com/science/article/abs/pii/S1047320321000808)
 
-humza_naveed@yahoo.com 
+It contains 103 video recordings taken in daylight conditions, comprising 10 actors, mimicking 11 different activities while
+driving. The length of the videos is variable ranging from 5 sec to 15 sec. Eleven activities are:
+1. Doze 
+2. Call left
+3. Call right
+4. Text right
+5. Text left
+6. Safe driving
+7. Drinking Water
+8. Reaching hand behind
+9. Operating radio
+10. Making hair
+11. Shifting gear
+  
+Sample frames taken from different video clips are shown below:
 
 <img src="dataset.png" alt="Alt text" title="Sample frames taken from different video clips in our
 dataset">
 
-Please cite the following article, if you use this dataset. 
+Please send a request to humza_naveed@yahoo.com for downloading the dataset.
+
+
+Cite the following article, if you use this dataset. 
 <br />
 <br />
 ```
