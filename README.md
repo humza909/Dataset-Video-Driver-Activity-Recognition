@@ -1,4 +1,4 @@
-# Dataset: Video based Driver Activity Recognition
+# UET Driver Activity Recognition Dataset
 
 This dataset is used in the paper: [Driver activity recognition by learning spatiotemporal features of pose and human object interaction](https://www.sciencedirect.com/science/article/abs/pii/S1047320321000808)
 
